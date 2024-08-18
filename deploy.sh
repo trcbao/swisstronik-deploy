@@ -1,4 +1,4 @@
-#!/bin/sh
+git add . && git commit -m "feat: initiated the project" && git push origin main#!/bin/sh
 sudo apt-get update && sudo apt-get upgrade -y
 clear
 
